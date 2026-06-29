@@ -1,0 +1,10 @@
+name = input("What is your name :")
+Age = int(input("What is your age :"))
+Dream  = input("What is your Dream company :")
+Target  = float(input("What is your Target CGPA : "))
+print("Student Profile")
+
+print("Name : " , name)
+print("Age : " , Age)
+print("Dream Company : " , Dream )
+print("Target CGPA : " , Target )
